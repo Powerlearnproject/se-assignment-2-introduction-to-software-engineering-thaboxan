@@ -11,16 +11,16 @@ Answer the following questions based on your understanding of software engineeri
 
 ### 1. Define Software Engineering
 **Question:**
-Define Software Engineering
+Define Software Engineering.
 
-**Answer:**
+**Answers:**
 Software engineering is the systematic application of engineering principles to design, develop, test, deploy, and maintain high-quality software systems. It involves using well-defined processes, tools, and methodologies to create reliable and efficient software solutions. Unlike traditional programming, which focuses on writing code to solve specific problems, software engineering encompasses the entire software development lifecycle, including requirements analysis, design, implementation, testing, and maintenance.
 
 ### 2. Software Development Life Cycle (SDLC)
 **Question:**
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 
-**Answer:**
+**Answers:**
 The Software Development Life Cycle (SDLC) consists of several phases:
 
 - **Requirements Gathering:** Understand user needs and define system requirements.
